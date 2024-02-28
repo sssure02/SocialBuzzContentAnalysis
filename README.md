@@ -18,6 +18,7 @@ They are specifically looking for an analysis of their content categories, showi
 - So, the company can collaborate with influencers and brands to promote healthy eating and produce content related to animals on the platform to boost user engagement.
 
 ![Screenshot](Tableau.png)
+The dahboard can be viewed [here](https://public.tableau.com/app/profile/sai.sravani.sure/viz/SocialBuzz_17083481471150/Dashboard1).
 
 ## About the dataset:
 *Reaction*, *Content*, and *ReactionTypes* as our relevant data sets. The dataset contains information about 25,000 pieces of content.
