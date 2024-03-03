@@ -6,7 +6,7 @@ Of the 250 people working at Social Buzz, 200 are technical staff working on mai
 
 They are specifically looking for an analysis of their content categories, showing the top 5 categories with the largest popularity. *Reaction*, *Content*, and *ReactionTypes* as our relevant data sets.
 
-## Key takeaway: 
+## Key takeaways: 
 - Every day, over 100,000 pieces of content are posted, ranging from text, images, videos, and GIFs.
 - 36,500,000 pieces of content per year! However, the project focuses on analyzing about 25,000 pieces of content.
 - There are 16 unique categories that each piece of content falls into, such as animals, science, and food.
