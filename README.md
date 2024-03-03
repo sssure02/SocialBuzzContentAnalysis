@@ -21,7 +21,7 @@ They are specifically looking for an analysis of their content categories, showi
 The dashboard can be viewed [here](https://public.tableau.com/app/profile/sai.sravani.sure/viz/SocialBuzz_17083481471150/Dashboard1).
 
 ## About the dataset:
-*Reaction*, *Content*, and *ReactionTypes* as our relevant data sets. The dataset contains information about 25,000 pieces of content.
+*Reaction*, *Content*, and *ReactionTypes* are our relevant data sets. The dataset contains information about 25,000 pieces of content.
 
 The *Content* table has the following data: 
   - ID: Unique ID of the content that was uploaded (automatically generated)
